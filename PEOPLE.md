@@ -1,1 +1,1 @@
-Haskel Curry
+Haskell Curry
